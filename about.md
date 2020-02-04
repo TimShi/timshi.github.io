@@ -6,7 +6,7 @@ permalink: /about/
 
 # The Name of the Blog
 
-My name is Tim Shi. I am the founder and principal of Tim Shi Software Development. I help companies build software products. This is where I write about my thoughts on building software.
+My name is Tim Shi. I am the founder and principal of Tim Shi Software Development. I help companies build software products. This is where I write about my work.
 
 "It from Bit" is a term coined by the famous American theoretical physicist John Wheeler. In 1990, Wheeler suggested that information is fundamental to the physics of the universe. According to this "it from bit" doctrine, all things physical are information-theoretic in origin:
 
