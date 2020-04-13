@@ -10,7 +10,7 @@ My name is Tim Shi. I am the founder and principal of Tim Shi Software Developme
 
 >It from bit. Otherwise put, every it — every particle, every field of force, even the space-time continuum itself — derives its function, its meaning, its very existence entirely — even if in some contexts indirectly — from the apparatus-elicited answers to yes-or-no questions, binary choices, bits. It from bit symbolizes the idea that every item of the physical world has at bottom — a very deep bottom, in most instances — an immaterial source and explanation; that which we call reality arises in the last analysis from the posing of yes-no questions and the registering of equipment-evoked responses; in short, that all things physical are information-theoretic in origin and that this is a participatory universe.
 
-Whether this is how our universe works, I am not sure. But I couldn't think of a more fitting term to describe the software development process, where we materialize ideas into reality and try to make a dent in the physical word with it. I hope my services can help you turn your idea into reality - making "it from bit".
+Whether this is how our universe works, I am not sure. But I couldn't think of a more fitting term to describe the software development process, where we materialize ideas into reality and try to make a dent in the physical world with it. I hope my services can help you turn your idea into reality - making "it from bit".
 
 # My Areas of Expertise
 
