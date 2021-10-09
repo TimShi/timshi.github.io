@@ -1,0 +1,50 @@
+golang topics
+
+1. closure and referencing variables outside of the closure (i.e. it's a direct reference, not a copy of the variable)
+
+2. golang cleverness (weirdness)
+
+memory allocation - unlike java where the rules of where object is allocated is fixed, in golang memory allocation is based on escape analysis and not always the same.
+
+receiver or a function can be either a pointer or a value. inside the function, reference to the receiver is copied. If the receiver is pointer, it's the pointer that's copied, so you can modify the memory the pointer points to. If the receiver is value, it's a copied value.
+
+
+
+3. why is gingonic fast? because all the route is determined at compile time instead of run time. examine the pros and cons of this... 
+
+Engine
+	has many method tree
+			method
+			root
+				path
+				indices (this is the next path bye of all the children)
+				children - has many nodes
+				handlers - has many handler func
+				priority
+				nodetype
+				maxparam
+				wildchild
+				fullpath
+
+number of root equals number of distinct methods
+
+root        root
+  |			  |	
+method       method
+path		 path
+handlers	 handlers
+/
+children
+|
+method
+path
+handler
+
+The node.addRoute function is such that it will reorganize the tree by splitting the edge into children node
+
+This creates problem for adding cross cutting middleware
+
+
+general programming topics
+
+1. the fundation of web app security - cookie and browser rules
