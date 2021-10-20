@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  Basketball At Rim Park 2021/10/16
-date:   2021-10-08 22:46:16 -0500
+title:  Basketball At Rim Park 2021/10/23 - 2021/11/16
+date:   2021-10-20
 categories: announcement
 ---
 
 # 时间: 
-2021/10/16 9PM-11PM
+2021/10/23 - 2021/11/16 每周六 9PM-11PM
 
 # 费用：
-总计 $145.63，共15人，每人$10, 请email transfer到 yixindong@gmail.com
+请email transfer到 yixindong@gmail.com
 
 # 注意事项
 
 1. 请在当天把以下信息发送到 yixindong@gmail.com。**没有及时提供以下信息的人将无法入场。**
 	- 姓名
 	- 电话号码
-	- 在 [https://covid-19.ontario.ca/screening/customer/](https://covid-19.ontario.ca/screening/customer/) 完成问卷并把PDF结果附送在email里
+	- 在 [https://covid-19.ontario.ca/screening/customer/](https://covid-19.ontario.ca/screening/customer/) 完成问卷并把PDF结果或网页截图附送在email里。（在手机上下载PDF需chrome浏览器）
 	- 请在email 标题里注明rim park以及你的名字和日期以便查找。比如 "Rim Park - Tim Shi - 2021/10/16"
 
 2. 请带好2次疫苗的证明及photo ID(如驾照)。Rim park的工作人员会在入场前检查。你可以在[https://covid-19.ontario.ca/covid-19-vaccine-booking-support#proof-of-vaccination](https://covid-19.ontario.ca/covid-19-vaccine-booking-support#proof-of-vaccination) 下载你的疫苗证明。
